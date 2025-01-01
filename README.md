@@ -7,7 +7,7 @@
 - **💼 Profession**: Student, Teacher Assistant
 - **🎓 Education**: CS in Temple University, Currently Senior
 - **🛠️ Skills**:
-  - Languages: Java, Python, SQL, C, HTML, CSS
+  - Languages: Java, Python, SQL, C, HTML, CSS, JavaScript
   - Frameworks: React, Express, Vue, Tailwind
   - Tools: Git, MySQL, Oracle SQL, Firebase, MongoDB, Render, Hugo, VSCode, Node.js  
 
