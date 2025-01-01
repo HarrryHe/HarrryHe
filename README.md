@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 👋 About Me  
+### 😀 About Me  
 
 - **Name**: Jiacheng He
 - **🌍 Location**: USA
