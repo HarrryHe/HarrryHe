@@ -2,7 +2,7 @@
 
 ### 😀 About Me  
 
-- **Name**: Jiacheng He
+- **Name**: Jiacheng He (Harry)
 - **🌍 Location**: USA
 - **💼 Profession**: Student, Teacher Assistant
 - **🎓 Education**: CS in Temple University, Currently Senior
