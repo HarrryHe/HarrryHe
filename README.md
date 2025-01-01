@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 👋 About Me
+### 👋 About Me  
 
 - **Name**: Jiacheng He
 - **🌍 Location**: USA
@@ -9,9 +9,9 @@
 - **🛠️ Skills**:
   - Languages: Java, Python, SQL, C, HTML, CSS
   - Frameworks: React, Express, Vue, Tailwind
-  - Tools: Git, MySQL, Oracle SQL, Firebase, MongoDB, Render, Hugo, VSCode, Node.js
+  - Tools: Git, MySQL, Oracle SQL, Firebase, MongoDB, Render, Hugo, VSCode, Node.js  
 
-### 🦉 Github Status
+### 🦉 Github Status  
 
 <!-- GitHub Stats -->
 <div style="flex: 1; display: flex; justify-content: center; align-items: center; height: 250px; background: #1a1a1a; border-radius: 10px;">
@@ -20,7 +20,7 @@
     alt="GitHub Stats"
     style="max-height: 100%; border-radius: 10px;"
   />
-</div>
+</div>  
 
 
 ### ⏰ Profile Views
