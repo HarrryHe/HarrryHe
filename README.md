@@ -9,7 +9,7 @@
 - **🛠️ Skills**:
   - Languages: Java, Python, SQL, C, HTML, CSS, JavaScript
   - Frameworks: React, Express, Vue, Tailwind
-  - Tools: Git, MySQL, Oracle SQL, Firebase, MongoDB, Render, Hugo, VSCode, Node.js  
+  - Tools: Git, MySQL, Oracle SQL, Firebase, MongoDB, Render, Hugo, VSCode, Node.js, Vite  
 
 ### 🦉 Github Status  
 
