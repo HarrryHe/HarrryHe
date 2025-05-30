@@ -5,7 +5,9 @@
 - **🎩 Name**: Jiacheng He (Harry)
 - **🌍 Location**: USA
 - **💼 Profession**: Student, Teacher Assistant
-- **🎓 Education**: CS in Temple University, Currently Senior
+- **🎓 Education**:
+  - Temple University, Bachelor's BS in CS
+  - Incoming Boston University MSCS
 - **🛠️ Skills**:
   - Languages: Java, Python, SQL, C, HTML, CSS, JavaScript
   - Frameworks: React, Express, Vue, Tailwind, Next.js
