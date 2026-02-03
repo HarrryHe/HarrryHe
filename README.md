@@ -5,7 +5,7 @@
 <!-- GitHub Stats -->
 <div>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=HarrryHe&show_icons=true&theme=transparent" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=HarrryHe&show_icons=true&theme=transparent" 
     alt="GitHub Stats"
     style="max-height: 100%; border-radius: 10px;"
   />
